@@ -34,8 +34,9 @@ reliable systems — building clean, well-documented code, and keeping
 security in mind from day one.
 
 #### 📫 Let's build together
-- 🌐 Website: tabeshdigital.com
-- 💼 LinkedIn: /company/tabeshdigital
-- ✉️ Email: hello@tabeshdigital.com
+
+[![Website](https://img.shields.io/badge/Website-tabeshdigital.ir-2783DE?style=for-the-badge&logo=googlechrome&logoColor=white)](https://tabeshdigital.ir)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tabesh_Digital-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/tabeshdigital/)
+[![Email](https://img.shields.io/badge/Email-tabeshdigital.co@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tabeshdigital.co@gmail.com)
 
 _Open to freelance projects and collaborations._
